@@ -6,7 +6,7 @@ This is an advanced calculator
 
 ### see how to use
 ![](https://github.com/anandprabhakar0507/Advanced-Numerical-calculator-by-me/blob/master/calculator.gif)
-
+Give it a try..
 ##### for any error or suggestion please
 ##### feel free to contact [me here](mailto:anandprabhakar0507@gmail.com)
 Thank you 
